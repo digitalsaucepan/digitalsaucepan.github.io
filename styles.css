@@ -1,0 +1,11 @@
+blockquote {
+    max-width: 600px;
+    margin: 20px;
+    padding: 20px;
+    color: #ffffff;
+    background-color: #23DF37;
+    border-radius: 20px;
+    border-top: 2px solid #38b6cd;
+    border-bottom: 2px solid #38b6cd;
+    }
+
