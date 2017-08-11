@@ -3,12 +3,12 @@
 # **Under Construction**
 
 ### About this documentation
-THe main purpose of this site is to demonstrate how to use various features of these Apps.  
+The main purpose of this site is to demonstrate how to use various features of these Apps.  
 
 Additionally, a brief description of the technology used to create these Apps is given in collapsed sections like so:  
 <details><summary>Tech: Blurbs</summary><p>
 
-> These technology blurbs are created using `<details><summary>` HTML tags, and should render on all modern browsers (except Microsoft Edge, but I believe that will be fixed in an upcoming update).
+> These technology blurbs are created using `<details><summary></summary></details>` HTML tags, and should render on all modern browsers (except Microsoft Edge, but I believe that will be fixed in an upcoming update).
 
 </p></details>
 
