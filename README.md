@@ -71,3 +71,5 @@ than from [Yahoo](http://search.yahoo.com/ "Yahoo Search") or
 
 Collapsible until here.
 </p></details>
+
+Just a [quick](/DigiWeight/readme.md) link
