@@ -1,7 +1,16 @@
 site_name: DigitalSaucepan
-copyright: Copyright © 2017 DigitalSaucepan
+copyright: Copyright &copy; 2017 DigitalSaucepan
+
+theme: 'material'
+extra:
+  palette:
+    primary: 'deep orange'
+    accent: 'deep orange'
+
 pages:
-  - Home: 'index.md'
-  - Apps:
-    - DigiWeight: 'apps/digiweight.md'
-    - DigiBP: 'apps/digibp.md'
+  - Introduction: 'index.md'
+  - DigiWeight: 'digiweight.md'
+  - DigiBP: 'digibp.md'
+
+markdown_extensions:
+  - admonition

@@ -37,5 +37,5 @@ This documentation is created using Markdown format and hosted at GitHub Pages.
 ---
 
 ### App's Currently Under Construction
-[DigiWeight](/apps/digiweight.md) - Weight Tracker  
-[DigiBP](/apps/digibp.md) - Blood Pressure Tracker
+[DigiWeight](digiweight.md) - Weight Tracker  
+[DigiBP](digibp.md) - Blood Pressure Tracker
