@@ -1,0 +1,7 @@
+site_name: DigitalSaucepan
+copyright: Copyright © 2017 DigitalSaucepan
+pages:
+  - Home: 'index.md'
+  - Apps:
+    - DigiWeight: 'apps/digiweight.md'
+    - DigiBP: 'apps/digibp.md'
